@@ -1,0 +1,52 @@
+.company-logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.jobs-card-background {
+  background-color: #64748b;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.role-rating-section {
+  display: flex;
+  align-items: center;
+}
+.location-type-section {
+  display: flex;
+  align-items: center;
+}
+.hl {
+  margin: 0px;
+  background-color: white;
+}
+.discr-word {
+  margin: 0px;
+  margin-top: 5px;
+}
+.location {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.package-class {
+  display: flex;
+  justify-content: space-between;
+}
+.rating-class {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+}
+.title-name {
+  margin: 0px;
+}
+.rating-value {
+  margin: 0px;
+}
+.link-item {
+  text-decoration: none;
+}

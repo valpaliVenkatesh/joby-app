@@ -1,0 +1,39 @@
+.jobs-page-background {
+  display: flex;
+  margin: 0px;
+  background-color: #202020;
+}
+.job-details-section {
+  width: 70vw;
+  padding-left: 0px;
+  margin: 0px;
+  list-style-type: none;
+}
+
+.products-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.search-container {
+  border: solid 1px white;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  width: 180px;
+  height: 30px;
+  margin: 10px;
+}
+.search-bar {
+  border: none;
+  background-color: transparent;
+  width: 150px;
+  outline: none;
+  padding: 5px;
+  color: white;
+}
+.search-icon {
+  background-color: #cbd5e1;
+  margin: 0px;
+}

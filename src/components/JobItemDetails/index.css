@@ -1,0 +1,40 @@
+.job-details-background {
+  background-color: #202020;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 20px;
+  color: white;
+}
+
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.skill-list-item {
+  display: flex;
+  width: 30%;
+  align-items: center;
+}
+.company-description-container {
+  display: flex;
+}
+.similar-job-items-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.company-url-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.link-button {
+  border: none;
+  background-color: transparent;
+}
+.link-icon {
+  width: 30px;
+  height: 30px;
+}
